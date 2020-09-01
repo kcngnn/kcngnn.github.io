@@ -24,7 +24,7 @@ Later, I prepared another file to run the forecast automatically. The forecast u
 
 My individual project in partial fulfillment of the course ***Data Mining for Business Analytics***, in which I learnt about Clustering, Association Analysis, a number of classification methods, and text mining.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Rain-Prediction-In-Australia)
+[![Read Report](https://img.shields.io/badge/Report-Read%20Report-green)](../master/pdf/rain_prediction_in_australia.pdf)[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Rain-Prediction-In-Australia)
 
 <div style="text-align: justify">
 I employed a weather dataset from Australia’s Bureau of Meteorology, comprised of 142,193 daily weather observations at 49 different
@@ -49,7 +49,7 @@ Individual practices of using Python to solve supply chain problems. Most of the
 
 **Problems:** <br/>
 <div style="text-align: justify">
-- Supply Network Optimization <br/>
+1/ Supply Network Optimization <br/>
 <br/>
 </div>
 
@@ -62,7 +62,7 @@ Individual practices of using Python to solve supply chain problems. Most of the
 
 A group project in fulfillment of the course ***Multivariate Analysis***, in which we learnt how to use four techniques, Principle Component Analysis, Factor Analysis, Logistics Regression, and Discriminant Analysis.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Chronic-Kidney-Disease-Prediction)
+[![Read Report](https://img.shields.io/badge/Report-Read%20Report-green)](../master/pdf/screening_for_ckd.pdf)[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Chronic-Kidney-Disease-Prediction)
 
 <div style="text-align: justify">
 Objective: create an easy-to-use screening tool to identify people who run a high risk of CKD so that they can get treatment early - expect to earn $1,300 for a true positive and be penalized by $100 for a false positive. <br/>
