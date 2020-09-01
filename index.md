@@ -10,10 +10,8 @@ My individual project in which I used a real-life dataset from [Kaggle](https://
 
 <div style="text-align: justify">
 First, I analyzed and cleaned the dataset - investigating NA values, negative demand values, removing products that do not meet criteria for statistical forecasting: stopped products and new products, etc. <br/>
-<br/>
 
 I built four different models (ARIMA/SARIMA, Simple/Double/Triple Exponential Smoothing, Prophet). I compared and extracted forecasts by models of lowest RMSE values for each product because different products have data patterns suitable for different models.<br>
-<br/>
 
 Later, I prepared another file to run the forecast automatically. The forecast user just needs to load data and choose the forecasting periods to generate forecasts and get the lists of products that are not qualified for statistical forecasting (stopped products and new products).<br></div>
 
