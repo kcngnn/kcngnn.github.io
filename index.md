@@ -33,7 +33,7 @@ locations all over Australia between 2007 and 2017.<br>
   
 First, I performed clustering analysis to find out locations across Australia that have similar weather conditions.<br>
 
-Second, I build a predictive model to forecast the possibility of rain on the following day. I tried three techniques, including k
+Second, I built a predictive model to forecast the possibility of rain on the following day. I tried three techniques, including k
 Nearest Neighbors, Support Vector Machine, and Artificial Neural Networks to get the one with best performance. I continued to use feature selection to improve the model performance.<br>
 </div>
 
@@ -91,7 +91,7 @@ A group project in fulfillment of the course ***Predictive Business Analytics wi
 <div style="text-align: justify">
 Objective: to find out undiscovered consequences or patterns behind the collision data other than common senses (e.g. High collision rate over a rush hour, downtown Manhattan, etc.). We would also give our suggestions and if possible, notify motorists, pedestrians on the road to be careful during certain times of the day and at certain locations. <br/>
   
-We employed 3 different datasets from the US Government open data website, data.gov. The time range which the datasets addresses is from 2012 – 2019. Each dataset is comprised of 3-4 million observations. We linked the datasets to answer 4 important problems.<br/>
+We employed 3 different datasets from the US Government open data website, data.gov. The time range which the datasets addresses is from 2012 – 2019. Each dataset is comprised of 3-4 million observations. We joined the datasets to answer 4 important problems.<br/>
 </div>
 <br>
 <center><img src="images/nyc-collision.JPG"/></center>
