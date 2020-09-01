@@ -93,7 +93,7 @@ Objective: to find out undiscovered consequences or patterns behind the collisio
   
 We employed 3 different datasets from the US Government open data website, data.gov. The time range which the datasets addresses is from 2012 – 2019. Each dataset is comprised of 3-4 million observations. We linked the datasets to answer 4 important problems.<br/>
 </div>
-
+<br>
 <center><img src="images/nyc-collision.JPG"/></center>
 <br>
 
@@ -110,7 +110,7 @@ The project was conducted at a real company; however, in this report, company, d
   
 This project, as required by Green Belt certification, aims at applying Six Sigma knowledge and tools to actual operations. In particular, I applied DMAIC process to improve order management process of a real company. During this project, I worked with project champion – a representative from the company to understand the most updated order management process at the company, and was provided with a dataset of 4,575 observations – 2018 replenishment orders. I made assessment using different tools and methods, and found two critical Xs that negatively affected on-time delivery and came up with several change concepts. Pros and cons of the solutions were evaluated with a decision matrix and two final solutions were proposed to modify the current order management process.<br/>
 </div>
-
+<br>
 <center><img src="images/six-sigma.JPG"/></center>
 <br>
 ---
