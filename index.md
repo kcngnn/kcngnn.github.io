@@ -9,7 +9,7 @@ My individual project in which I used a real-life dataset from [Kaggle](https://
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Product-Demand-Forecasting)
 
 <div style="text-align: justify">
-First, I analyzed and cleaned the dataset - investigating NA values, negative demand values, removing products that do not meet criteria for statistical forecasting: stopped products and new products, etc.
+First, I analyzed and cleaned the dataset - investigating NA values, negative demand values, removing products that do not meet criteria for statistical forecasting: stopped products and new products, etc. <br/>
 
 I built four different models (ARIMA/SARIMA, Simple/Double/Triple Exponential Smoothing, Prophet). I compared and extracted forecasts by models of lowest RMSE values for each product because different products have data patterns suitable for different models.
 
