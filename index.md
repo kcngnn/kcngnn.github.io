@@ -1,35 +1,20 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+### Product Demand Forecasting
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This is my individual project in which I used a real-life dataset from [Kaggle](https://www.kaggle.com/felixzhao/productdemandforecasting) to do more practice on times series forecasting.
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Product-Demand-Forecasting)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+First, I analyzed to understand and clean the dataset, including investigating NA values, investigating negative demand values and removing negative values of returned products, removing products that do not meet criteria for statistical forecasting: stopped products and new products, etc.
 
----
+Then I pre-processed the dataset to prepare for times series forecasting. I built four different models (ARIMA/SARIMA, Simple/Double/Triple Exponential Smoothing, Prophet) that are the most popular ones. I compared and extracted forecasts by models of lowest RMSE values for each product because different products have data patterns suitable for different models.
 
-### Category Name 2
+Later, I prepared another file to run the forecast automatically. The forecast user just needs to load data and choose the forecasting periods to generate forecasts and get the lists of products that are not qualified for statistical forecasting (stopped products and new products).
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<center><img src="images/product-forecast.PNG"/></center>
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<center>© 2020 Kim-Cuong Nguyen. Powered by Jekyll and the Minimal Theme.</center>
