@@ -80,4 +80,38 @@ The team ran logistic regression on this dataset a few times to get the final pr
 <br>
 
 ---
+
+## NYC Collision Data Exploration
+
+A group project in fulfillment of the course ***Predictive Business Analytics with Relational Database Data***, in which we learnt to use SAS for analytics purposes.
+
+[![Read Report](https://img.shields.io/badge/Report-Read%20Report-green)](/pdf/sas_nyc_collision_project_report.pdf)
+[![View Code](https://img.shields.io/badge/Code-View%20Code-blue)](/pdf/sas_nyc_collision_project_code.pdf)
+
+<div style="text-align: justify">
+Objective: to find out undiscovered consequences or patterns behind the collision data other than common senses (e.g. High collision rate over a rush hour, downtown Manhattan, etc.). We would also give our suggestions and if possible, notify motorists, pedestrians on the road to be careful during certain times of the day and at certain locations. <br/>
+  
+We employed 3 different datasets from the US Government open data website, data.gov. The time range which the datasets addresses is from 2012 – 2019. Each dataset is comprised of 3-4 million observations. We linked the datasets to answer 4 important problems.<br/>
+</div>
+
+<center><img src="images/nyc-collision.JPG"/></center>
+<br>
+
+---
+
+## Six Sigma Green Belt Project
+
+Individual project in partial fulfillment for the course ***Six Sigma Green Belt for Managers*** at Texas Christian University, Neeley School of Business.
+
+[![Read Report](https://img.shields.io/badge/Report-Read%20Report-green)](/pdf/six_sigma_report.pdf)
+
+<div style="text-align: justify">
+The project was conducted at a real company; however, in this report, company, department, and factory names have been replaced. <br/>
+  
+This project, as required by Green Belt certification, aims at applying Six Sigma knowledge and tools to actual operations. In particular, I applied DMAIC process to improve order management process of a real company. During this project, I worked with project champion – a representative from the company to understand the most updated order management process at the company, and was provided with a dataset of 4,575 observations – 2018 replenishment orders. I made assessment using different tools and methods, and found two critical Xs that negatively affected on-time delivery and came up with several change concepts. Pros and cons of the solutions were evaluated with a decision matrix and two final solutions were proposed to modify the current order management process.<br/>
+</div>
+
+<center><img src="images/six-sigma.JPG"/></center>
+<br>
+---
 <center>© 2020 Kim-Cuong Nguyen. Powered by Jekyll and the Minimal Theme.</center>
