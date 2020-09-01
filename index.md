@@ -41,6 +41,23 @@ Nearest Neighbors, Support Vector Machine, and Artificial Neural Networks to get
 
 ---
 
+## Supply Chain Analytics Problems
+
+Individual practices of using Python to solve supply chain problems. Most of the problems are self-created with reference to sample ones.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Supply-Chain-Analytics)
+
+**Problems:** <br/>
+<div style="text-align: justify">
+- Supply Network Optimization <br/>
+<br/>
+</div>
+
+<center><img src="images/supply-analytics.JPG"/></center>
+<br>
+
+---
+
 ## Screening for Chronic Kidney Disease (CKD)
 
 A group project in fulfillment of the course ***Multivariate Analysis***, in which we learnt how to use four techniques, Principle Component Analysis, Factor Analysis, Logistics Regression, and Discriminant Analysis.
