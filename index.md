@@ -1,7 +1,7 @@
 # Portfolio
 
 ---
-## Product Demand Forecasting
+## Sentiment Analysis on Product Reviews of an Oral Care Brand
 
 A group project in fulfillment for the Consulting course, in which we worked on solving a real business case at a pharmaceutical client company.
 
