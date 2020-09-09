@@ -5,7 +5,7 @@
 
 A group project in fulfillment for the Consulting course, in which we worked on solving a real business case at a pharmaceutical client company.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Sentiment-Analysis-on-an-Oral-Care-Product-Reviews)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Sentiment-Analysis-on-Oral-Care-Product-Reviews)
 
 <div style="text-align: justify">
 In the project, we applied different NLP techniques on an oral care brand of the company.
