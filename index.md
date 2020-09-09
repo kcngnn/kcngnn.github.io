@@ -15,7 +15,7 @@ The study serves two purposes: <br/>
 - To visualize customer perceptions about brands across the oral care sector to understand how Brand A is positioned against its competitors.<br/>
 
 These two objectives bring the team to the final goal of helping the company to understand how customers communicate about the brand and where perception or performance could be improved.<br></div>
-
+<br/>
 <center><img src="images/sentiment-analysis.JPG"/></center>
 <br>
 
