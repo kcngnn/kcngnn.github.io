@@ -1,9 +1,27 @@
 # Portfolio
 
 ---
+## Kroger API and Recipe Web Scraping
+
+A group project in fulfillment for the ***Data Acquisition and Preprocessing*** course, in which we worked on building code to acquire data from public sources and preprocess data to get it ready for use to analysts.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Kroger-API-and-Recipe-Web-Scraping)
+
+<div style="text-align: justify">
+In the project, we applied two data acquistion techniques: API and Web Scraping. <br/>
+
+The goal of this is to create a dataset that maps the foods with suggestions for purchase at Kroger that could allow for potential future analysis of topics like the prices of popular recipes.<br/>
+
+Access code to Kroger API is valid for 30 minutes only. However, this limitation has been addressed in our code. And thus, the dataset can be built as large as needed following the time limit set by users.
+</div>
+<br/>
+<center><img src="images/kroger-api.png"/></center>
+<br>
+
+---
 ## Sentiment Analysis on Product Reviews
 
-A group project in fulfillment for the Consulting course, in which we worked on solving a real business case at a pharmaceutical client company.
+A group project in fulfillment for the ***Consulting*** course, in which we worked on solving a real business case at a pharmaceutical client company.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kcngnn/Sentiment-Analysis-on-Oral-Care-Product-Reviews)
 
