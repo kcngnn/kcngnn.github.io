@@ -12,7 +12,7 @@ In the project, we applied two data acquistion techniques: API and Web Scraping.
 
 The goal of this is to create a dataset that maps the foods with suggestions for purchase at Kroger that could allow for potential future analysis of topics like the prices of popular recipes.<br/>
 
-Access code to Kroger API is valid for 30 minutes only. However, this limitation has been addressed in our code. And thus, the dataset can be built as large as needed following the time limit set by users.
+Access code to Kroger API is valid for 30 minutes only. However, this limitation has been addressed in our code. And thus, the dataset can be built as large as needed following any time limit set by users.
 </div>
 <br/>
 <center><img src="images/kroger-api.png"/></center>
